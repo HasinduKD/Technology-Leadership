@@ -1,38 +1,40 @@
-## Welcome to GitHub Pages
+# Technology Leadership
 
-You can use the [editor on GitHub](https://github.com/HasinduKD/Technology-Leadership/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+OENG1130- Technology Leadership is a course offered by RMIT Vietnam and covers effective methods to devise real solutions for the challengers faced by technological leaders in the present world. Further, this course elaborates on the processes and operations that supports the understanding of company infrastructure and developing fexibilty for change. This equip you with the necessary knowledge and skills required to be a successful technical leader. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Situational Approach to Leadership 
 
-### Markdown
+The foundation of situational approach to leadership lies in the belief that there is no fixed way to lead, and different 
+situations demand different kinds of leadership behavior depending on the qualities of his followers. The key factors 
+of a situational leader are his adaptability and flexibility to tailor his behavior to meet the competence and commitment 
+level of his followers in effect producing great results.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Strengths
 
-```markdown
-Syntax highlighted code block
+1. Recognizes the need for flexibility when dealing with different situations
+2. Different leadership behaviors help to serve employees of different levels
+3. Allows more efficient teamwork and a comfortable work environment
+4. Generally, a simple and understandable form of leadership to most individuals
 
-# Advantages of Skill Approach to Leadership
-## Disadvantages of Skill Approach to Leadership
-### Advantages of Situational Approach to Leadership
-#### Disadvantages of Situational Approach to Leadership
+### Limitations
 
-- Bulleted
-- List
+1. This approach is suited to focus more on immediate events than long term events
+2. It is based on the skill set level of the leader to adapt to situations
 
-1. Numbered
-2. List
+## Skill Approach to Leadership
 
-**Bold** and _Italic_ and `Code` text
+The skill approach to leadership is based on the concept that certain characteristics within an individual become the 
+defining features of the person as a leader. The skills model developed by Mumford’s group confirms three basic 
+competencies that are essential to becoming a good leader: problem-solving skills, social judgment skills, and 
+knowledge, and each of these attributes is affected by two external factors, career experiences, and environmental 
+influence.
 
-[Link](url) and ![Image](src)
-```
+### Strengths
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. Provides a basic understanding of the skills required for the position as a technological leader
+2. An appealing approach as it makes leadership available to everyone 
 
-### Jekyll Themes
+### Limitations
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HasinduKD/Technology-Leadership/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Does not specify how to acquire the skills mentioned
+2. A leader-centered approach without any regard to work relationships between followers
